@@ -9,6 +9,7 @@ I build backend systems that hold up under real usage, not just demos. After 7+ 
 🌱 Currently: going deeper into data science
 💬 Ask me about: moving from PHP to a modern stack, code review, mentoring new joiners
 🤝 Open to: full-time roles and freelance projects (web development, database development, IT consulting)
+🌐 Portfolio: [rahul-bhutekar-portfolio.vercel.app](https://rahul-bhutekar-portfolio.vercel.app/)
 
 ## 🛠️ Tech stack
 
@@ -20,6 +21,7 @@ I build backend systems that hold up under real usage, not just demos. After 7+ 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **AI tools:** Cursor · Codex
 
@@ -31,11 +33,6 @@ I build backend systems that hold up under real usage, not just demos. After 7+ 
 - Co-authored "VIVA-Tech SAM", a student attendance management system
 - Patent: *Systems and Methods for Ideogram Based Authentication*
 
-## 📈 GitHub stats
-
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-bhutekar&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-bhutekar&layout=compact&theme=tokyonight&hide_border=true)
-
 ## 📫 Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/bhutekar-rahul) · [Email](mailto:bhutekar.rahul94@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/bhutekar-rahul) · [Portfolio](https://rahul-bhutekar-portfolio.vercel.app/)
