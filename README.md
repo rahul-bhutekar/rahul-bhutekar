@@ -33,6 +33,17 @@ I build backend systems that hold up under real usage, not just demos. After 7+ 
 - Co-authored "VIVA-Tech SAM", a student attendance management system
 - Patent: *Systems and Methods for Ideogram Based Authentication*
 
+## 📈 GitHub stats
+
+<p>
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
+</p>
+<p>
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
+</p>
+
 ## 📫 Let's connect
 
 [LinkedIn](https://www.linkedin.com/in/bhutekar-rahul) · [Portfolio](https://rahul-bhutekar-portfolio.vercel.app/)
